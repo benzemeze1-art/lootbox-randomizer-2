@@ -1,2 +1,5 @@
-# lootbox-randomizer-2
-On chain lootbox random reward demo for Web3 games
+# Lootbox Randomizer
+
+A pseudo-random reward generator contract for lootbox style games.
+
+**Keywords:** crypto blockchain web3 solidity nft
